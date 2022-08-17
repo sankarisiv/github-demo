@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/sankarisiv/github-demo.git"
   },
   "publishConfig": {
     "@sankarisiv:registry": "https://npm.pkg.github.com"
